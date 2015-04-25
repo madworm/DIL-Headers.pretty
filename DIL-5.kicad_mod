@@ -4,7 +4,7 @@
   (fp_text reference P? (at 1.27 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value VAL** (at 1.27 3.81) (layer F.SilkS)
+  (fp_text value VAL** (at 1.27 3.81) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 6.5024 -2.6924) (end -6.5024 -2.6924) (layer F.CrtYd) (width 0.05))
